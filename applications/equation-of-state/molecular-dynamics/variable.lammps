@@ -2,11 +2,13 @@
 
 variable thermo equal 200
 variable dump equal 1000
-variable thermo_minimize equal 5
-variable dumping_minimize equal 5
+variable thermo_minimize equal 25
+variable dumping_minimize equal 10
 variable time_step equal 1.0
 variable minimization_steps equal 50
-variable maximum_steps equal 3000
-variable temp equal 79.91840529782759
+variable maximum_steps equal 20000
+variable temp equal 200.0
 variable tau_temp equal 100.0
-
+variable press equal 0.9999999999999999
+variable tau_press equal 999.9999999999999
+variable pber equal 1
