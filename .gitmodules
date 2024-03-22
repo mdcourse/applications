@@ -1,0 +1,6 @@
+[submodule "python-codes"]
+	path = python-codes
+	url = git@github.com:mdcourse/python-codes.git
+[submodule "pyplot-perso"]
+	path = pyplot-perso
+	url = git@github.com:simongravelle/pyplot-perso.git
